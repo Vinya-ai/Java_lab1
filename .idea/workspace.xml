@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="370e472e-6f85-457b-9321-9e8f7c8e75e6" name="Changes" comment="Upgrade javadoc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.ContainerIterator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/allclasses-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/allpackages-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/member-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.Node.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.Node.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/ContainerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/ContainerTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/type-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ContainerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ContainerTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="370e472e-6f85-457b-9321-9e8f7c8e75e6" name="Changes" comment="Upgrade javadoc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
