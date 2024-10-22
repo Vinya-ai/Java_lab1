@@ -4,8 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="370e472e-6f85-457b-9321-9e8f7c8e75e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ContainerTest.java" afterDir="false" />
+    <list default="true" id="370e472e-6f85-457b-9321-9e8f7c8e75e6" name="Changes" comment="Upgrade javadoc">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.ContainerIterator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.Node.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.Node.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Container.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/ContainerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/ContainerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/org/example/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/docs/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/docs/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ContainerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ContainerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,36 +53,59 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Vinya-ai"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vinya-ai&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Vinya-ai/Java_lab1.git",
-    "accountId": "450b32d2-c0d0-40e6-ab6f-f57504f8ec01"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vinya-ai/Java_lab1.git&quot;,
+    &quot;accountId&quot;: &quot;450b32d2-c0d0-40e6-ab6f-f57504f8ec01&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2nloATt6QMeoHU5Nt5uTtQaHnCN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Ivan/Desktop/3rd year 1 semester/Java/L1/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContainerTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ivan/Desktop/3rd year 1 semester/Java/L1/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="ContainerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="L1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ContainerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ContainerTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,5 +116,21 @@
       <updated>1729556881528</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add toString,iterator,hashCode" />
+    <MESSAGE value="Upgrade javadoc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upgrade javadoc" />
   </component>
 </project>

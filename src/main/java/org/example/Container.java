@@ -1,11 +1,16 @@
 package org.example;
+
+import java.lang.Iterable;
+import java.util.Iterator;
+import java.util.NoSuchElementException;
+
 /**
  * Класс контейнер, позволяющий хранить произвольное количество объектов. Со свойством <b>head</b>.
  * @author Иван Жмурко
  * @param <T>  тип элементов в этом контейнере
  */
 
-public class Container<T> {
+public class Container<T> implements Iterable<T> {
 
     /**
      * Голова списка.
@@ -95,7 +100,11 @@ public class Container<T> {
             for (int i = 0; i < index - 1; i++) {
                 cNode = cNode.next;
             }
-            cNode.next = cNode.next != null ? cNode.next.next : null;
+            if (cNode.next.next != null) {
+                cNode.next = cNode.next.next;
+            } else {
+                cNode.next = null;
+            }
         }
     }
 
@@ -112,4 +121,83 @@ public class Container<T> {
         }
         return i;
     }
+    /**
+     * Функция возвращает итератор для последовательного обхода элементов, содержащихся в контейнере.
+     * @return возращает итератор для контейнера
+     */
+    @Override
+    public Iterator<T> iterator() {
+        return new ContainerIterator();
+    }
+
+    /**
+     * Внутренний класс, реализующий итератор для контейнера.
+     */
+    private class ContainerIterator implements Iterator<T> {
+
+        /**
+         * Текущий узел итератора.
+         */
+        private Node<T> currentNode = head;
+
+        /**
+         * Проверяет, есть ли следующий элемент в контейнере.
+         * @return true если следующий элемент существует, иначе false
+         */
+        @Override
+        public boolean hasNext() {
+            return currentNode != null;
+        }
+
+        /**
+         * Функция возвращает следующий элемент из контейнера.
+         * @return возвращает следующий элемент
+         * @throws NoSuchElementException если больше нет элементов
+         */
+        @Override
+        public T next() {
+            if (!hasNext()) {
+                throw new NoSuchElementException();
+            }
+            T data = currentNode.data;
+            currentNode = currentNode.next;
+            return data;
+        }
+    }
+    /**
+     * Функция возвращает строковое представление контейнера.
+     * @return строка, представляющая элементы контейнера
+     */
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("[");
+        Node<T> currentNode = head;
+        while (currentNode != null) {
+            sb.append(currentNode.data);
+            currentNode = currentNode.next;
+            if (currentNode != null) {
+                sb.append(", ");
+            }
+        }
+        sb.append("]");
+        return sb.toString();
+    }
+
+    /**
+     * Функция вычисляет хэш-код контейнера на основе его содержащихся элементов.
+     * @return возращает хэш-код контейнера
+     */
+    @Override
+    public int hashCode() {
+        int result = 1;
+        Node<T> currentNode = head;
+        while (currentNode != null) {
+            result = 31 * result + (currentNode.data != null ? currentNode.data.hashCode() : 0);
+            currentNode = currentNode.next;
+        }
+        return result;
+    }
 }
+
+
